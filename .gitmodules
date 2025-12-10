@@ -1,3 +1,6 @@
 [submodule "SPTAG"]
 	path = SPTAG
 	url = https://github.com/microsoft/SPTAG.git
+[submodule "DiskANN"]
+	path = DiskANN
+	url = https://github.com/microsoft/DiskANN.git
